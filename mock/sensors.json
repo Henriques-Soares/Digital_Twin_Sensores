@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nome": "Sensor de Pressão",
+    "valorAtual": 5.2,
+    "status": "OK",
+    "historico": [4.8, 5.1, 5.2, 5.0, 4.9]
+  },
+  {
+    "id": 2,
+    "nome": "Sensor de Fluxo",
+    "valorAtual": 3.7,
+    "status": "Alerta",
+    "historico": [3.6, 3.5, 3.8, 3.7, 3.9]
+  },
+  {
+    "id": 3,
+    "nome": "Sensor de Temperatura",
+    "valorAtual": 22.1,
+    "status": "OK",
+    "historico": [21.8, 22.0, 22.2, 22.1, 22.0]
+  },
+  {
+    "id": 4,
+    "nome": "Sensor de Vibração",
+    "valorAtual": 0.12,
+    "status": "OK",
+    "historico": [0.11, 0.13, 0.12, 0.12, 0.14]
+  },
+  {
+    "id": 5,
+    "nome": "Sensor de Umidade",
+    "valorAtual": 67,
+    "status": "OK",
+    "historico": [65, 66, 67, 68, 67]
+  },
+  {
+    "id": 6,
+    "nome": "Sensor de Nível de Óleo",
+    "valorAtual": 9.2,
+    "status": "Alerta",
+    "historico": [9.5, 9.3, 9.2, 9.4, 9.5]
+  },
+  {
+    "id": 7,
+    "nome": "Sensor de Vazamento de Ar",
+    "valorAtual": 0.03,
+    "status": "OK",
+    "historico": [0.02, 0.03, 0.03, 0.04, 0.02]
+  },
+  {
+    "id": 8,
+    "nome": "Sensor de Rotação",
+    "valorAtual": 1800,
+    "status": "OK",
+    "historico": [1780, 1790, 1800, 1810, 1805]
+  },
+  {
+    "id": 9,
+    "nome": "Sensor de Filtro",
+    "valorAtual": 92,
+    "status": "OK",
+    "historico": [90, 91, 92, 93, 92]
+  },
+  {
+    "id": 10,
+    "nome": "Sensor de Carga Pneumática",
+    "valorAtual": 75,
+    "status": "Alerta",
+    "historico": [72, 74, 75, 73, 72]
+  }
+]
